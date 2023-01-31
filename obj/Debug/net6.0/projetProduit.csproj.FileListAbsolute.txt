@@ -1,0 +1,15 @@
+C:\Users\Alfousseni\Desktop\projetProduit\obj\Debug\net6.0\projetProduit.csproj.AssemblyReference.cache
+C:\Users\Alfousseni\Desktop\projetProduit\obj\Debug\net6.0\projetProduit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfousseni\Desktop\projetProduit\obj\Debug\net6.0\projetProduit.AssemblyInfoInputs.cache
+C:\Users\Alfousseni\Desktop\projetProduit\obj\Debug\net6.0\projetProduit.AssemblyInfo.cs
+C:\Users\Alfousseni\Desktop\projetProduit\obj\Debug\net6.0\projetProduit.csproj.CoreCompileInputs.cache
+C:\Users\Alfousseni\Desktop\projetProduit\bin\Debug\net6.0\projetProduit.exe
+C:\Users\Alfousseni\Desktop\projetProduit\bin\Debug\net6.0\projetProduit.deps.json
+C:\Users\Alfousseni\Desktop\projetProduit\bin\Debug\net6.0\projetProduit.runtimeconfig.json
+C:\Users\Alfousseni\Desktop\projetProduit\bin\Debug\net6.0\projetProduit.dll
+C:\Users\Alfousseni\Desktop\projetProduit\bin\Debug\net6.0\projetProduit.pdb
+C:\Users\Alfousseni\Desktop\projetProduit\obj\Debug\net6.0\projetProduit.dll
+C:\Users\Alfousseni\Desktop\projetProduit\obj\Debug\net6.0\refint\projetProduit.dll
+C:\Users\Alfousseni\Desktop\projetProduit\obj\Debug\net6.0\projetProduit.pdb
+C:\Users\Alfousseni\Desktop\projetProduit\obj\Debug\net6.0\projetProduit.genruntimeconfig.cache
+C:\Users\Alfousseni\Desktop\projetProduit\obj\Debug\net6.0\ref\projetProduit.dll
